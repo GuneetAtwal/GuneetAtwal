@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=GuneetAtwal&label=Views&color=blue&style=plastic" alt="GuneetAtwal" /> </p>
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working at [Topica Edutech Group](https://topica.asia/)
 - 🌱 I’m currently learning [JetpackCompose](https://developer.android.com/jetpack/compose)
 - 🤔 I’m looking for help with ...
