@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=GuneetAtwal&label=Views&color=blue&style=plastic" alt="GuneetAtwal" /> </p>
 
-- 🔭 I’m currently working at [Topica Edutech Group](https://topica.asia/)
-- 🌱 I’m currently learning [JetpackCompose](https://developer.android.com/jetpack/compose)
+- 🔭 I’m currently working at [HappiestMinds](https://www.happiestminds.com/)
+- 🌱 I’m currently learning [Flutter](https://flutter.dev/)
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about Android related stuff
 - 📫 How to reach me: [Twitter - @guneetatwal](https://www.twitter.com/guneetatwal), [LinkedIn - @guneetatwal](https://www.linkedin.com/in/guneetatwal/)
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: If i am not working then i am probably in the gym or steam
+- ⚡ Fun fact: If i am not working then i am probably in the gym or reading
 
 **Languages and Tools:**  
 
