@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=GuneetAtwal&label=Views&color=blue&style=plastic" alt="GuneetAtwal" /> </p>
 
-- 🔭 I’m currently working at [HappiestMinds](https://www.happiestminds.com/)
+- 🔭 I’m currently working at [EloTouch Solutions](https://www.elotouch.com)
 - 🌱 I’m currently learning [Flutter](https://flutter.dev/)
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about Android related stuff
